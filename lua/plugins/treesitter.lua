@@ -19,6 +19,7 @@ return {
 			"bash",
 			"diff",
 			"luadoc",
+			"latex",
 		},
 
 		-- Install parsers synchronously (only applied to `ensure_installed`)
